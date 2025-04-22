@@ -1,0 +1,28 @@
+.conteneur{
+    display:flex 
+}
+
+
+.panel-gauche{
+width: 100%;
+background-color: black;
+color: white;
+text-align:center; 
+padding: 20px;
+}
+
+.paragraphe{
+text-align: center;
+}
+
+.profil-photo{
+width: 150px ;
+border-radius: 50%;
+margin-bottom: 20px;
+}
+
+.autres{
+    display: flex;
+    justify-content: space-between;
+    width: justify;
+}

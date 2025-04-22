@@ -1,0 +1,68 @@
+.BIENVENUE{
+    text-align: center;
+}
+
+
+.competences{
+    display: flex;
+    width: 1900px;
+    background-color: black;
+    color: white;
+    text-align: justify;
+    justify-content: space-between;
+}
+
+.dev-web{
+    width: justify;
+}
+
+
+
+.projet{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+    color: white;
+}
+
+.img-html{
+    width: 70px;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.img-css{
+    width: 70px;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.img-js{
+    width: 70px;
+    border-bottom: 70px;
+    margin-bottom: 20px;
+}
+
+.img-github{
+    width: 90px;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.img-reactnative{
+    width: 90px;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.img-python{
+    width: 90px;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.img-django{
+    width: 90px;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
